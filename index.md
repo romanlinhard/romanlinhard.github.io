@@ -8,3 +8,5 @@ He is a good actor
 My actor said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://www.rlinhard.de/images/pic01.jpg"/>
