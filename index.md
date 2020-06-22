@@ -4,3 +4,7 @@ He is a good actor
 * sex
 * drugs
 * alcohol
+
+My actor said:
+> I’ve always been more interested
+> in the future than in the past.
